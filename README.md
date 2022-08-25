@@ -15,7 +15,8 @@ Aim of the project is to:
 
 ## Dataset
 * Book metadata of 10,000 books from Goodreads
-* Ratings from more than 53,000 users
+* Ratings from more than 53,000 users (please refer to url as this file is too huge to be uploaded)
+* personalLibrary_me: A list of the books I've read
 
 Source: 
 
